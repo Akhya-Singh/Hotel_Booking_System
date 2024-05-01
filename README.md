@@ -20,7 +20,7 @@ The project is a Hotel Booking Website built using HTML, CSS, JavaScript, and PH
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Akhya-Singh/hotel-booking-system.git`
+1. Clone the repository: `git clone https://github.com/Akhya-Singh/Hotel_Booking_System.git`
 2. Set up a local server environment (e.g., XAMPP)
 3. Import the provided database file into your MySQL server
 4. Configure the database connection details in the PHP files
