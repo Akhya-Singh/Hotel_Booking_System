@@ -1,4 +1,4 @@
-# Hotel Booking Website
+# Hotel Booking System
 
 A comprehensive online platform that simplifies the process of booking hotel accommodations, offering a user-friendly interface and a seamless experience for travelers. This project aims to streamline the hotel reservation process by providing a centralized platform where users can search, compare, and book their desired hotel rooms with ease.
 The project is a Hotel Booking Website built using HTML, CSS, JavaScript, and PHP for the front-end and back-end.
@@ -20,11 +20,11 @@ The project is a Hotel Booking Website built using HTML, CSS, JavaScript, and PH
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Akhya-Singh/hotel-booking-website.git`
+1. Clone the repository: `git clone https://github.com/Akhya-Singh/hotel-booking-system.git`
 2. Set up a local server environment (e.g., XAMPP)
 3. Import the provided database file into your MySQL server
 4. Configure the database connection details in the PHP files
-5. Start the Apache server and access the website through `http://localhost/hotel-booking-website`
+5. Start the Apache server and access the website through `http://localhost/hotel-booking-system`
 
 ## Usage
 
